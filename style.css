@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #e1e6eb;
+    font-family: "Poppins", sans-serif;
+}
+
+.task-manager {
+    background-color: #a1a9ee;
+    margin: 20px auto;
+    padding: 20px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#taskControls button {
+  margin: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #694eca;
+  border: none;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+#taskControls button:hover {
+  background-color: #481ce9;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
