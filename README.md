@@ -9,6 +9,8 @@ Um simples gerenciador de tarefas desenvolvido para ajudar na organização de t
 - **JavaScript**: Para funcionalidade interativa, como adicionar e remover tarefas, além de um contador.
   
 ## Funcionalidades
+- Confira a pagina da aplicação:
+- https://teofilonicolau.github.io/task_list/
 
 - Adicionar novas tarefas.
 - Remover tarefas existentes.
